@@ -1,6 +1,6 @@
 
 
-# Aplicativo para converter moeda
+# Aplicativo para verificar cotação de moedas
 
 #### Aplicativo criado utilizando a linguagem Python com a ferramenta Kivy 
 
